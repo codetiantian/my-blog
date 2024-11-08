@@ -1,0 +1,9 @@
+# 忽略 .DS_Store
+.DS_Store
+
+# 忽略 node_modules 文件夹
+node_modules
+
+# 忽略 .vuepress 下的临时和缓存文件夹
+.vuepress/dist/
+ 

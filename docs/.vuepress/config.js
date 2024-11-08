@@ -6,7 +6,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
     logo: 'logo.png',
-    repo: 'https://gitee.com/crazypotato/my-blog.git',
+    repo: 'https://github.com/codetiantian/my-blog.git',
     navbar: [
       {
         text: '首页',
@@ -18,7 +18,7 @@ export default defineUserConfig({
       },
       {
         text: 'github',
-        link: 'https://gitee.com/crazypotato/my-blog.git'
+        link: 'https://github.com/codetiantian/my-blog.git'
       }
     ]
   }),

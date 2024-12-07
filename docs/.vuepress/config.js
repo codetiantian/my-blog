@@ -16,10 +16,6 @@ export default defineUserConfig({
       {
         text: 'vue',
         link: '/vue/compatibility'
-      },
-      {
-        text: 'github',
-        link: 'https://github.com/codetiantian/my-blog.git'
       }
     ]
   }),
